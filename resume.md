@@ -30,3 +30,13 @@ sea-krevetka.github.io
 ![image](https://github.com/user-attachments/assets/83d245fe-d2bf-4e11-b6f7-137b4bccda2c)
 
 ---
+
+
+## 📚 Структура
+- html страница.
+📌 [Реализация](/raw_files/resume.html)
+- css оформление.
+📌 [Реализация](/raw_files/resume.css)
+- javascript.
+📌 [Реализация](/raw_files/sliderjs.js)
+
